@@ -7,7 +7,7 @@
   <li> <strong>Holiday & Leave Requests</strong>strong>- Team members can book holidays directly through the app.</li>
   <li> <strong>Availability Management</strong> - Staff can easily update their availability, enabling smarter scheduling decisions.</li>
   <li> <strong>Conflit Free Planning</strong> - Automatically resolves clashes and adjusts shifts accordingly.</li>
-  <li> <strong>User - Friendly interface - Clean, intuitive design for managers and employees.</li> 
+  <li> <strong>User - Friendly interface</strong> - Clean, intuitive design for managers and employees.</li> 
 </ul>
   
 <h2>purpose</h2> 
