@@ -3,7 +3,7 @@
 
 <h2>Key Features </h2>
 <ul>
-  <li> <strong>Automated Schedule Generation</strong> - Create efficient work schedules using staff availability and business needs.</li>
+  <li> <strong>Automated Schedule Generation</strong> - Create efficient work schedules using staffs availability and business needs.</li>
   <li> <strong>Holiday & Leave Requests</strong>strong>- Team members can book holidays directly through the app.</li>
   <li> <strong>Availability Management</strong> - Staff can easily update their availability, enabling smarter scheduling decisions.</li>
   <li> <strong>Conflit Free Planning</strong> - Automatically resolves clashes and adjusts shifts accordingly.</li>
